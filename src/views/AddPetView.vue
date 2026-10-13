@@ -46,7 +46,7 @@
     <header class="mb-4">
       <h1 class="text-2xl font-bold">Cadastro de Pets</h1>
       <p class="text-body-secundary mb-0">
-        Cadastro de pets no sitema.
+        Cadastro de pets no sistema.
       </p>
     </header>
 
@@ -74,6 +74,10 @@
           <option value="Coelho" >Coelho</option>
           <option value="Tartaruga" >Tartaruga</option>
           <option value="Peixe" >Peixe</option>
+          <option value="Mini-Vaca" >Mini-Vaca</option>
+          <option value="Cavalo" >Cavalo</option>
+          <option value="Pato" >Pato</option>
+          <option value="Unicornio" >Unicórnio</option>
 
         </select>
       </div>

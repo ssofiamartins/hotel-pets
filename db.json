@@ -9,6 +9,11 @@
       "id": "2",
       "nome": "Carlos",
       "telefone": "47988880000"
+    },
+    {
+      "nome": "Alice",
+      "telefone": "47996259734",
+      "id": "3lO9d2dn35Y"
     }
   ],
   "pets": [
@@ -25,34 +30,10 @@
       "tutorId": "1"
     },
     {
-      "nome": "Diana",
-      "especie": "",
-      "tutorId": "",
-      "id": "uYjhu7a5GWE"
-    },
-    {
-      "nome": "Diana",
-      "especie": "Cachorro",
-      "tutorId": "Carlos",
-      "id": "qSZl0zTaGV4"
-    },
-    {
-      "nome": "Diana",
-      "especie": "Gato",
-      "tutorId": "Carlos",
-      "id": "GoQanJi1Rsw"
-    },
-    {
-      "nome": "Diana",
-      "especie": "Coelho",
+      "nome": "Alice",
+      "especie": "Unicornio",
       "tutorId": "1",
-      "id": "GO1ZruPWBLI"
-    },
-    {
-      "nome": "Diana",
-      "especie": "Tartaruga",
-      "tutorId": "",
-      "id": "6l0S4Fpn4w8"
+      "id": "Axtvjdm2TU4"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
