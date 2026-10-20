@@ -11,9 +11,30 @@
       "telefone": "47988880000"
     },
     {
+      "nome": "SOFIALINDA",
+      "telefone": "47996259734",
+      "endereco": {
+        "rua": "",
+        "numero": "",
+        "bairro": "",
+        "cidade": "",
+        "estado": "",
+        "cep": ""
+      },
+      "id": "itv7tAi3sdA"
+    },
+    {
       "nome": "Alice",
       "telefone": "47996259734",
-      "id": "3lO9d2dn35Y"
+      "endereco": {
+        "rua": "Rua Maracujá",
+        "numero": "382",
+        "bairro": "Comasa",
+        "cidade": "Joinville",
+        "estado": "SC",
+        "cep": "89228070"
+      },
+      "id": "ejETmemD5Z0"
     }
   ],
   "pets": [
@@ -28,12 +49,6 @@
       "nome": "Nino",
       "especie": "Gato",
       "tutorId": "1"
-    },
-    {
-      "nome": "Alice",
-      "especie": "Unicornio",
-      "tutorId": "1",
-      "id": "Axtvjdm2TU4"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
