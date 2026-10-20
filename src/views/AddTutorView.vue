@@ -66,6 +66,7 @@ async function salvarTutor() {
             class="form-control"
             id="nome"
             v-model="novoTutor.nome"
+            placeholder="Insira o nome do tutor"
             required
           />
         </label>
@@ -78,6 +79,7 @@ async function salvarTutor() {
             class="form-control"
             id="telefone"
             v-model="novoTutor.telefone"
+            placeholder="(00) 00000-0000"
             required>
         </label>
       </div>
